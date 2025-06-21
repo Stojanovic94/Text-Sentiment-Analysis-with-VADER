@@ -4,6 +4,10 @@ This project demonstrates a simple NLP (Natural Language Processing) pipeline fo
 
 ---
 
+![](image-1.png)
+![](image-2.png)
+![](image-3.png)
+
 ## 📦 Features
 
 - ✅ Text cleaning (lowercasing, removing punctuation, stopword filtering)
